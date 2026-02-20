@@ -202,3 +202,4 @@ class Menu:
                 isTrue = False
             else:
                 print("Неверный выбор. Пожалуйста, попробуйте снова.")
+    
